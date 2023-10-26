@@ -1,8 +1,6 @@
 ### Hello there 👋
 
-I am Wibi Anto, Mathematics Undergraduate Student at Universitas Padjadjaran
-
-I'm currently learning at Machine Learning Learning Path in Bangkit Academy 2023
+I am Wibi Anto, Final Year Mathematics Undergraduate Student at Universitas Padjadjaran with passionate to explore Machine Learning, Data Science, and Computational Mathematics
 
 
 Contact Me:
